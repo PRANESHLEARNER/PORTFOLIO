@@ -7,8 +7,8 @@ const Projects = () => {
             {/* Profile Section */}
             <div className="profile-section">
                 <img src={profilePhoto} alt="Profile" className="profile-photo" />
-                <h2>My Profile</h2>
-                <p>Hello! I'm a passionate <strong>full-stack developer</strong> with expertise in <strong>React.js, Node.js, Express, and MongoDB</strong>. I love exploring different approaches to solve problems and building innovative solutions.</p>
+                {/* <h2>My Profile</h2> */}
+                {/* <p>Hello! I'm a passionate <strong>full-stack developer</strong> with expertise in <strong>React.js, Node.js, Express, and MongoDB</strong>. I love exploring different approaches to solve problems and building innovative solutions.</p> */}
             </div>
 
             <h2>My Projects</h2>
